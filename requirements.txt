@@ -1,0 +1,17 @@
+# --- Logging / System ---
+dotenv
+
+# --- Data / Serialization ---
+PyYAML>=6.0.3
+
+# --- Core Langchain framework ---
+langchain-qdrant
+langchain-huggingface
+langchain-core==1.2.7
+
+# --- ML / Embedding / Transformers ---
+torch>=2.0.0
+transformers==4.56.2
+sentence-transformers>=5.1.1
+scikit-learn>=1.7.0
+scipy>=1.15.0
