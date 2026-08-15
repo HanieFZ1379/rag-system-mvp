@@ -1,0 +1,9 @@
+
+qdrant:
+  collection_name: V1_05_25
+  url: http://localhost:6333/
+
+models:
+  emb_type: huggingface
+  emb_model: intfloat/multilingual-e5-large-instruct
+  chat_model: Qwen3-235B-A22B-Instruct-2507
