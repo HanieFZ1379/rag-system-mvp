@@ -102,4 +102,8 @@ rag-system-mvp/
 ├── requirements.txt
 └── README.md
 ```
-
+## Setup
+1. Clone the repository: `git clone -----`
+2. Create and activate a virtual environment: `python3.10 -m venv .venv && source .venv/bin/activate`
+3. Install dependencies: `pip install -e .`
+4. Configure `.env` with API keys and passwords if needed (e.g., OpenAI) and paths (e.g., Qdrant).
