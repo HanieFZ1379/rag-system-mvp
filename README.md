@@ -77,6 +77,7 @@ rag-system-mvp/
 ├── app/
 │   ├── api/
 │   ├── config/
+│   ├── config_loader/
 │   ├── ingestion/
 │   ├── retrieval/
 │   ├── generation/
